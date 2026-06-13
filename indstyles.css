@@ -1,13 +1,14 @@
 h1 {
-    color: rgb(7, 102, 245);
+    color: azure;
     font-family: "Sniglet", system-ui;
 }
 
 body {
-    background-color: rgb(255, 169, 112);
+    background-color: rgb(255, 157, 92);
+    font-family: "Sniglet", system-ui;
 }
 
 p {
-    color: rgb(7, 102, 245);
+    color: azure;
     font-family: "Sniglet", system-ui;
 }
