@@ -1,13 +1,13 @@
 h1 {
-    color: rgb(10, 255, 84);
-    border: 2px black solid;
+    color: rgb(7, 102, 245);
+    font-family: "Sniglet", system-ui;
 }
 
 body {
-    background-color: rgb(255, 99, 72);
+    background-color: rgb(255, 169, 112);
 }
 
 p {
-    color: rgb(10, 255, 84);
-    border: 2px black solid;
+    color: rgb(7, 102, 245);
+    font-family: "Sniglet", system-ui;
 }
